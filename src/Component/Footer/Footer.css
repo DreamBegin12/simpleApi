@@ -1,0 +1,94 @@
+.footer__section{
+    margin-top: 3rem;
+    padding: 2rem;
+    height: 30vh;
+}
+.ii{
+    border: none;
+    height: 30px;
+    width: 30px;
+}
+.footer__i{
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.footer__i p{
+    font-size: 2rem;
+}
+
+.icons{
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    display: flex;
+    gap: 1.8rem;
+    cursor: pointer;
+
+}
+.middle_section{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1.2rem;
+
+}
+.id{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.middle__section2{
+    margin-top: 1rem;
+    
+}
+.middle__section2 p{
+    font-size: 1.3rem;
+    color: #3965db;
+}
+
+.last__section{
+    margin-top: 1.2rem;
+}
+.last{
+    font-size: 1.7rem;
+    font-weight: 600;
+    position: left;
+}
+.c{
+    font-size: 1.2rem;
+    color: #3965db;
+    
+    
+}
+.main__address{
+    font-size: 2.1rem;
+    font-weight: bolder;
+}
+.address2{
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    font-weight: 250;
+}
+.Add{
+    margin-top: 1rem;
+    color: #3965db;
+    font-size: 1.5rem;
+}
+.payment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+.payment2 img{
+    border: none;
+    width: 30vw;
+    height: 30px;
+    margin-top: 1.5rem
+    ;
+}
+.p{
+    
+    color: #3965db;
+}
